@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+nltk
+numpy
+librosa; extra==prosody
+soundfile
+opencv-python
+python-multipart
+pydantic
