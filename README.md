@@ -10,7 +10,7 @@ It visually represents these emotions as a **color-coded timeline** under the vi
 
 This project is part of a larger idea — an **AI-powered Video Summarization Extension** that can later work on platforms like **YouTube, Coursera, and Udemy**.  
 
-> 🧩 A **sample video and transcript** are included in this repository only for demonstration purposes.
+> 🧩 A **sample video and transcript** are included in this repository only for demonstration purposes , You can locally add a video accordingly.
 
 ---
 
